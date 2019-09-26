@@ -28,4 +28,5 @@ jsp servlet mysql实现的学生成绩管理系统
 	201402002、  
 	
  密码都为：111111  
+ # 网站效果展示
 ![](./picture/img.png)
