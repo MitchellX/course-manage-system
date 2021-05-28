@@ -1,5 +1,5 @@
 # course-manage-system
-jsp servlet mysql实现的学生成绩管理系统  
+jsp + servlet + mysql implement the course manage system
 
 # 需求分析
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该学生信息管理系统涉及到学生、教师、系统管理员、班级、学生成绩、课程。设置一个系统管理员对系统进行管理。所有用户需输入账号、密码登录进入系统；管理员进入系统后可对学生、老师、班级、课程进行增删改查操作；学生进入系统，查看成绩、查看和修改自己的信息；老师进入系统后，对自己这门课程的学生设置课程成绩、查看和修改自己的信息，查看学生的信息和成绩、以及统计分析学生的成绩；
